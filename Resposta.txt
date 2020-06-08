@@ -1,0 +1,4 @@
+A ordem não foram na mesma ordem que foram inseridos.
+Isso se deve ao fato que as pilhas colocam o último elemento no topo lista no topo da pilha.
+Ao retirar o primeiro elemento do topo da pilha e colocá-lo em uma fila, a ordem fica invertida da inserida.
+Output: 5 4 3 2 1 10 9 8 7 6
